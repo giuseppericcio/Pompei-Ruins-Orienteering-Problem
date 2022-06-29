@@ -3,7 +3,7 @@ Bench32,20,OPT L.C.,9,19.6855,65,2.983
 Bench32,50,OPT L.C.,23,49.99743,190,2.628
 Bench32,70,OPT L.C.,28,69.12729,260,0.23
 Bench52,20,OPT L.C.,8,18.51443,146,0.218
-Bench52,50,OPT L.C.,21,48.50606,313,57.876
+Bench52,50,OPT L.C.,21,48.50606,313,54.861
 Bench52,70,OPT L.C.,27,68.3257,436,37.71
 Bench102,20,OPT L.C.,4,18.03276,32,30.497
 Bench102,50,OPT L.C.,-,-,-,-
@@ -26,3 +26,13 @@ Bench52,70,OPT MTZ,-,-,-,-
 Bench102,20,OPT MTZ,4,18.03276,32.0,6.778
 Bench102,50,OPT MTZ,-,-,-,-
 Bench102,70,OPT MTZ,-,-,-,-
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,OPT MTZ,21,0.01994,68.0,81.873*
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,OPT MTZ,29,0.02992,96.0,102.885*
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,OPT MTZ,34,0.03836,105.0,2.902*
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,OPT MTZ,17,0.01983,45.0,0.217
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,OPT MTZ,31,0.02999,100.0,76.698***
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,OPT MTZ,38,0.03919,122.0,4.349***
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,OPT MTZ,24,0.01997,83.0,1.454
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,OPT MTZ,36,0.02992,117.0,3.902
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,OPT MTZ,41,0.03992,130.0,78.703
+
