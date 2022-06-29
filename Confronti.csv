@@ -1,18 +1,28 @@
-Istanza,TMAX,Metodo,N.POI,Lunghezza percorso in km,Valore di soddisfazione
-Bench32,50,G.A.,16,47.414344445771924,135
-Bench32,50,MTZ,19,49.47709105078655,175.0
-Bench32,50,L.C.,23,49.99742905314422,190
-Bench32,50,Heuristic,21,48.17285432102797,180
-Scavi di Pompei-Siti archeologici,0.02,L.C.,17,0.01998292182519517,45
-Scavi di Pompei-Siti archeologici,0.02,G.A.,12,0.01997787549317148,31
-Scavi di Pompei-Siti archeologici,0.02,Heuristic,10,0.01994459896386587,26
-Scavi di Pompei-Siti archeologici,0.02,MTZ,17,0.019827504863698633,45.000000000000014
-Scavi di Pompei-Siti archeologici,0.04,L.C.,41,0.03980092578996593,130
-Scavi di Pompei-Siti archeologici,0.04,Heuristic,19,0.0384384302690146,68
-Scavi di Pompei-Siti archeologici,0.04,G.A.,22,0.038863492387008286,66
-Scavi di Pompei-Siti archeologici,0.06,G.A.,30,0.056460822447930194,90
-Scavi di Pompei-Siti archeologici,0.06,Heuristic,26,0.05933128639260194,91
-Scavi di Pompei-Siti archeologici,0.06,L.C.,43,0.059272540884570374,134
-Bench52,20,L.C.,8,18.514430687399518,146
-Bench52,20,G.A.,7,17.515061852053716,120
-Bench52,20,Heuristic,6,18.39819959876368,101
+Istanza,DMAX,Metodo,N.POI,Lunghezza percorso (km),Valore di soddisfazione (TOTALE),Tempo di esecuzione (s)
+Bench32,20,OPT L.C.,9,19.6855,65,2.983
+Bench32,50,OPT L.C.,23,49.99743,190,2.628
+Bench32,70,OPT L.C.,28,69.12729,260,0.23
+Bench52,20,OPT L.C.,8,18.51443,146,0.218
+Bench52,50,OPT L.C.,21,48.50606,313,57.876
+Bench52,70,OPT L.C.,27,68.3257,436,37.71
+Bench102,20,OPT L.C.,4,18.03276,32,30.497
+Bench102,50,OPT L.C.,-,-,-,-
+Bench102,70,OPT L.C.,-,-,-,-
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,OPT L.C.,17,0.01998,45,0.134
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,OPT L.C.,31,0.02996,102,0.861
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,OPT L.C.,41,0.0398,130,0.321
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,OPT L.C.,20,0.01973,69,10.212
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,OPT L.C.,33,0.0298,105,22.605
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,OPT L.C.,40,0.03993,128,20.868
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,OPT L.C.,25,0.01982,83,0.155
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,OPT L.C.,36,0.02975,117,0.23
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,OPT L.C.,41,0.03992,130,0.329
+Bench32,20,OPT MTZ,9,19.93661,65.0,12.677
+Bench32,50,OPT MTZ,19,49.47709,175.0,4.826*
+Bench32,70,OPT MTZ,28,69.95678,260.0,92.77
+Bench52,20,OPT MTZ,8,18.51443,146.0,0.278
+Bench52,50,OPT MTZ,21,48.50606,313.0,45.515**
+Bench52,70,OPT MTZ,-,-,-,-
+Bench102,20,OPT MTZ,4,18.03276,32.0,6.778
+Bench102,50,OPT MTZ,-,-,-,-
+Bench102,70,OPT MTZ,-,-,-,-
