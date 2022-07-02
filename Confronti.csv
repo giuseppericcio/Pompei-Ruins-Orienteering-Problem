@@ -1,0 +1,91 @@
+Istanza,DMAX,Metodo,N.POI,Lunghezza percorso (km),Valore di soddisfazione (TOTALE),Tempo di esecuzione (s)
+Bench32,20,OPT L.C.,9,19.6855,65,2.983
+Bench32,50,OPT L.C.,23,49.99743,190,2.628
+Bench32,70,OPT L.C.,28,69.12729,260,0.23
+Bench52,20,OPT L.C.,8,18.51443,146,0.218
+Bench52,50,OPT L.C.,21,48.50606,313,54.861
+Bench52,70,OPT L.C.,27,68.3257,436,37.71
+Bench102,20,OPT L.C.,4,18.03276,32,30.497
+Bench102,50,OPT L.C.,-,-,-,-
+Bench102,70,OPT L.C.,-,-,-,-
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,OPT L.C.,17,0.01998,45,0.134
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,OPT L.C.,31,0.02996,102,0.861
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,OPT L.C.,41,0.0398,130,0.321
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,OPT L.C.,20,0.01973,69,10.212
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,OPT L.C.,33,0.0298,105,22.605
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,OPT L.C.,40,0.03993,128,20.868
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,OPT L.C.,25,0.01982,83,0.155
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,OPT L.C.,36,0.02975,117,0.23
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,OPT L.C.,41,0.03992,130,0.329
+Bench32,20,OPT MTZ,9,19.93661,65.0,12.677
+Bench32,50,OPT MTZ,19,49.47709,175.0,4.826*
+Bench32,70,OPT MTZ,28,69.95678,260.0,92.77
+Bench52,20,OPT MTZ,8,18.51443,146.0,0.278
+Bench52,50,OPT MTZ,21,48.50606,313.0,45.515**
+Bench52,70,OPT MTZ,-,-,-,-
+Bench102,20,OPT MTZ,4,18.03276,32.0,6.778
+Bench102,50,OPT MTZ,-,-,-,-
+Bench102,70,OPT MTZ,-,-,-,-
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,OPT MTZ,21,0.01994,68.0,81.873*
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,OPT MTZ,29,0.02992,96.0,102.885*
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,OPT MTZ,34,0.03836,105.0,2.902*
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,OPT MTZ,17,0.01983,45.0,0.217
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,OPT MTZ,31,0.02999,100.0,76.698***
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,OPT MTZ,38,0.03919,122.0,4.349***
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,OPT MTZ,24,0.01997,83.0,1.454
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,OPT MTZ,36,0.02992,117.0,3.902
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,OPT MTZ,41,0.03992,130.0,78.703
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,Heuristic,16,0.01966,57,0.0
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,Multistart,16,0.01966,57,4.655
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,Heuristic,21,0.02994,74,0.0
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,Multistart,21,0.02994,74,4.511
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,Heuristic,31,0.03968,92,0.008
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,Multistart,31,0.03968,92,4.744
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,Heuristic,10,0.01992,31,0.0
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,Multistart,10,0.01992,36,4.796
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,Heuristic,14,0.02973,49,0.0
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,Multistart,14,0.02973,63,4.7
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,Heuristic,19,0.03849,68,0.0
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,Multistart,19,0.03849,72,4.621
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,Heuristic,11,0.01900,41,0.0
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,Multistart,11,0.01900,44,4.544
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,Heuristic,12,0.02991,45,0.0
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,Multistart,12,0.02991,45,4.712
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,Heuristic,15,0.03977,57,0.0
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,Multistart,15,0.03977,59,4.52
+Bench32,20,Heuristic,9,19.7638,55,0.0
+Bench32,20,Multistart,9,19.7638,55,1.55
+Bench32,50,Heuristic,21,48.17285,180,0.0
+Bench32,50,Multistart,21,48.17285,180,1.406
+Bench32,70,Heuristic,23,55.08277,190,0.0
+Bench32,70,Multistart,23,55.08277,190,1.453
+Bench52,20,Heuristic,6,18.3982,101,0.0
+Bench52,20,Multistart,6,18.3982,101,9.808
+Bench52,50,Heuristic,13,48.95193,241,0.0
+Bench52,50,Multistart,13,48.95193,241,10.293
+Bench52,70,Heuristic,18,62.69676,289,0.0
+Bench52,70,Multistart,18,62.69676,289,10.118
+Bench102,20,Heuristic,4,18.03276,32,0.0
+Bench102,20,Multistart,4,18.03276,32,138.479
+Bench102,50,Heuristic,10,47.90494,161,0.0
+Bench102,50,Multistart,10,47.90494,161,137.827
+Bench102,70,Heuristic,15,68.63022,220,0.0
+Bench102,70,Multistart,15,68.63022,220,144.32
+Bench32,20,G.A.,8,19.20467,60,2.67199
+Bench32,50,G.A.,17,49.55133,140,10.17617
+Bench32,70,G.A.,21,68.64283,185,13.6832
+Bench52,20,G.A.,7,17.37802,125,2.22664
+Bench52,50,G.A.,13,49.7015,206,6.14363
+Bench52,70,G.A.,14,65.04336,268,7.09413
+Bench102,20,G.A.,4,18.00779,30,1.87008
+Bench102,50,G.A.,7,49.71365,122,3.27498
+Bench102,70,G.A.,9,63.42017,152,4.38975
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.02,G.A.,12,0.02,34,5.61531
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.03,G.A.,17,0.02968,55,7.26095
+Scavi_Archeologici_Pompei_Anfiteatro_Misteri,0.04,G.A.,23,0.03993,76,13.66032
+Scavi_Archeologici_Pompei_Marina_Misteri,0.02,G.A.,13,0.01925,45,5.4919
+Scavi_Archeologici_Pompei_Marina_Misteri,0.03,G.A.,19,0.02948,60,11.61109
+Scavi_Archeologici_Pompei_Marina_Misteri,0.04,G.A.,22,0.03992,70,13.16124
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.02,G.A.,17,0.0196,58,7.90045
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.03,G.A.,20,0.02945,61,7.73607
+Scavi_Archeologici_Pompei_Marina_Anfiteatro,0.04,G.A.,26,0.03847,77,20.10366
