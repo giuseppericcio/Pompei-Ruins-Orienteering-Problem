@@ -26,6 +26,27 @@ Alcune librerie particolari utilizzate sono:
 | Porta Marina - Villa dei Misteri      | 105                              | 33    | 6                      |
 | Piazza Anfiteatro - Villa dei Misteri | 130                              | 41    | 8                      |
 
+#### Percorso Porta Marina - Piazza Anfiteatro
+
+Porta Marina (0) > Piazza Anfiteatro (24) - 1.982 Km percorribili (lda)
+
+![ItinerarioMarinaAnfiteatro](./Immagini_Jupyter/ItinerarioMarinaAnfiteatro.jpeg)
+
+#### Percorso Porta Marina - Villa dei Misteri
+
+Porta Marina (0) > Villa dei Misteri (32) - 2.98 Km percorribili (lda)
+
+![ItinerarioMarinaMisteri](./Immagini_Jupyter/ItinerarioMarinaMisteri.jpeg)
+
+#### Percorso Piazza Anfiteatro - Villa dei Misteri
+
+Piazza Anfitatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
+
+![ItinerarioAnfiMisteri](./Immagini_Jupyter/ItinerarioAnfiMisteri.jpeg)
+
+
+Per visualizzare il nome di ogni N.POI eseguire il notebook Algoritmo_esatto_Orienteering.ipynb
+
 # Bibliografia e Sitografia
 - A simheuristic-learnheuristic algorithm for the Orienteering problem, https://informs-sim.org/wsc20papers/145.pdf
 Heuristic for Orienteering Problem, https://github.com/mattianeroni/MSTOP
