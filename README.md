@@ -54,6 +54,7 @@ Piazza Anfiteatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
 # Per eseguire i notebook direttamente da browser
 
 Per visualizzare il nome di ogni N.POI e i risultati completi, cliccare sul nome del corrispondente notebook:
+(N.B attenzione ai file.txt)
 
 - <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/Algoritmo_esatto_Orienteering.ipynb">Algoritmo_esatto_Orienteering.ipynb</a>
 
@@ -62,6 +63,7 @@ Per visualizzare il nome di ogni N.POI e i risultati completi, cliccare sul nome
 - <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/Heuristic_Orienteering.ipynb">Heuristic_Orienteering.ipynb</a>
 
 # Bibliografia e Sitografia
+Il seguente trattato ha seguito e adattato il problema in esame con questi riferimenti:
 - A simheuristic-learnheuristic algorithm for the Orienteering problem, https://informs-sim.org/wsc20papers/145.pdf
 Heuristic for Orienteering Problem, https://github.com/mattianeroni/MSTOP
 - A Genetic Algorithm with Grouping Selection and Searching Operators for the Orienteering Problem, https://link.springer.com/chapter/10.1007/978-3-319-15705-4_4
