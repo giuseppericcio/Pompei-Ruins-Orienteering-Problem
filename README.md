@@ -45,7 +45,7 @@ Porta Marina (0) > Villa dei Misteri (32) - 2.98 Km percorribili (lda)
 
 #### Percorso Piazza Anfiteatro - Villa dei Misteri
 
-Piazza Anfitatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
+Piazza Anfiteatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
 
 <div align="center">
 <img src="Immagini_Jupyter/ItinerarioAnfiMisteri.jpeg" alt="Itinerario Piazza Anfiteatro > Villa dei Misteri">
@@ -56,6 +56,10 @@ Piazza Anfitatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
 Per visualizzare il nome di ogni N.POI e i risultati completi, cliccare sul nome del corrispondente notebook:
 
 - <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/Algoritmo_esatto_Orienteering.ipynb">Algoritmo_esatto_Orienteering.ipynb</a>
+
+- <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/GeneticAlgorithm_Orienteering.ipynb">GeneticAlgorithm_Orienteering.ipynb</a>
+
+- <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/Heuristic_Orienteering.ipynb">Heuristic_Orienteering.ipynb</a>
 
 # Bibliografia e Sitografia
 - A simheuristic-learnheuristic algorithm for the Orienteering problem, https://informs-sim.org/wsc20papers/145.pdf
