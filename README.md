@@ -14,7 +14,8 @@ Per dimostrare la bontà del modello, si è provato ad applicarlo a delle istanz
 - Algoritmo simeuristico di Panadero Juan (Greedy, Biased Randomisation)
 - Algoritmo metauristico Genetic Algorithm
 
-*È consigliato eseguire i notebook Jupyter* \
+*È consigliato eseguire i notebook Jupyter per visualizzare i risultati completi.* <br>
+
 Alcune librerie particolari utilizzate sono:
 - Gurobi 
 - openrouteservice 
@@ -30,22 +31,35 @@ Alcune librerie particolari utilizzate sono:
 
 Porta Marina (0) > Piazza Anfiteatro (24) - 1.982 Km percorribili (lda)
 
-![ItinerarioMarinaAnfiteatro](./Immagini_Jupyter/ItinerarioMarinaAnfiteatro.jpeg)
+<div align="center">
+<img src="Immagini_Jupyter/ItinerarioMarinaAnfiteatro.jpeg" alt="Itinerario Porta Marina > Piazza Anfiteatro">
+</div>
 
 #### Percorso Porta Marina - Villa dei Misteri
 
 Porta Marina (0) > Villa dei Misteri (32) - 2.98 Km percorribili (lda)
 
-![ItinerarioMarinaMisteri](./Immagini_Jupyter/ItinerarioMarinaMisteri.jpeg)
+<div align="center">
+<img src="Immagini_Jupyter/ItinerarioMarinaMisteri.jpeg" alt="Itinerario Porta Marina > Villa dei Misteri">
+</div>
 
 #### Percorso Piazza Anfiteatro - Villa dei Misteri
 
-Piazza Anfitatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
+Piazza Anfiteatro (0) > Villa dei Misteri (40) - 3.98 Km percorribili (lda)
 
-![ItinerarioAnfiMisteri](./Immagini_Jupyter/ItinerarioAnfiMisteri.jpeg)
+<div align="center">
+<img src="Immagini_Jupyter/ItinerarioAnfiMisteri.jpeg" alt="Itinerario Piazza Anfiteatro > Villa dei Misteri">
+</div>
 
+# Per eseguire i notebook direttamente da browser
 
-Per visualizzare il nome di ogni N.POI eseguire il notebook Algoritmo_esatto_Orienteering.ipynb
+Per visualizzare il nome di ogni N.POI e i risultati completi, cliccare sul nome del corrispondente notebook:
+
+- <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/Algoritmo_esatto_Orienteering.ipynb">Algoritmo_esatto_Orienteering.ipynb</a>
+
+- <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/GeneticAlgorithm_Orienteering.ipynb">GeneticAlgorithm_Orienteering.ipynb</a>
+
+- <a href="https://colab.research.google.com/github/giuseppericcio/Pompei-Ruins-Orienteering-Problem/blob/main/Heuristic_Orienteering.ipynb">Heuristic_Orienteering.ipynb</a>
 
 # Bibliografia e Sitografia
 - A simheuristic-learnheuristic algorithm for the Orienteering problem, https://informs-sim.org/wsc20papers/145.pdf
@@ -54,6 +68,6 @@ Heuristic for Orienteering Problem, https://github.com/mattianeroni/MSTOP
 - GA for Orienteering Problem, https://github.com/LongShushen/using-GA-with-group-selection-to-solve-Orienteering-Problem
 - Dispense degli AUTORI
 
-***Autori***<br>
-Antonio Romano<br>
-Giuseppe Riccio<br>
+***Autori*** <br>
+Antonio Romano <br>
+Giuseppe Riccio <br>
